@@ -26,7 +26,7 @@ This is very small project/practice with frontend to backend connection using:
 * [AXIOS](https://www.npmjs.com/package/axios)
 ### Prerequisites:
 
-For running this project you need NPM
+For running this project you need to install NPM
 
 * npm
 ```sh
